@@ -1,2 +1,2 @@
 # bibliometric-analysis
-Repository containing a bibliometric analysis of new product demand forecasting
+This repository houses analyses from a systematic literature review on studies in the field of new product demand forecasting. It includes visual representations of the evolution of research over the years, evaluations of study quality, and analyses of trending topics. The aim is to provide a comprehensive overview of the current state and advancements in new product demand forecasting, identifying key trends and potential directions for future research.
